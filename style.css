@@ -1,7 +1,22 @@
-html {
-  display: flex;
-  justify-content: center;
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f2f5;
+  color: #333;
   padding: 20px;
-  background-color:aqua;
-  color:darkblue;
+  max-width: 800px;
+  margin: auto;
+}
+
+img {
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+details {
+  margin-bottom: 20px;
+  background-color: #fff;
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+  color: cornflowerblue;
 }
